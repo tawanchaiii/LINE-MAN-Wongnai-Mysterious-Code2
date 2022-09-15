@@ -1,4 +1,9 @@
 # LINE-MAN-Wongnai-Mysterious-Code2
+
+## My Answer is 
+
+`ConnectLocalBusiness,GreatPeopleAndRiders!`
+
 Are you ready to crack our coding challenge and win the special prizes!
 
 
